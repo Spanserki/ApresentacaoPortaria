@@ -56,8 +56,33 @@
   <ul>
   <li> Função Chegada possui a verificação se ele já está estacionado, se já saiu ou se existe no banco </li>
   <li> Função Saida possui a verificação bem parecida, verifica se o associado possui um registro de chegada e se essa placa não está com pendências </li>
+  </ul>
   
-  <h3> Futuramente sera implementado mais funcionalidades e outras bases na aplicação </h3>
+  <h3> Atualização V 1.0.1 { 24/06/2022 }</h3>
+  
+  <h4> Agora minha aplicação conta com geração de relatórios do Crystal Reports :star_struck: </h4>
+  
+  <p> Agora nosso analista não precisara mais ficar gerando relatórios e enviando para o solicitante, todo usuário com acesso pode 
+  exportar os relatórios que desejar </p>
+  
+  <div>
+  <img src="https://user-images.githubusercontent.com/97187822/175658804-5a465f8e-30ad-4d2d-9c05-ef865bf8877c.gif" />
+  </div>
+  
+  <h5> Todos os relatórios possuem parametros e estão prontos, com isso facilita muito na hora da mudança no formulario, sendo necessario 
+  a troca somente do arquivo RPT </h5>
+  
+  <p> Para executá-lo, desenvolvi um formulário de preenchimento conforme os parâmetros do relatório, após preenchido enviamos para um controlador
+  que vai coletar os dados e depois passar como parâmetro para o arquivo do relatório, logo em seguida o convertemos para PDF e disponibilizamos para o usuário
+  </p>
+  
+  <p> ⚠️: Foi um dos meus maiores desafio até aqui... </p>
+  
+  <div>
+  <img src="https://user-images.githubusercontent.com/97187822/175660591-fab056ab-817b-4771-8c64-17290ee6022f.gif" />
+  </div>
+  
+  
   
   
   
