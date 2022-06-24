@@ -20,7 +20,7 @@
 <ul>
   <li> Verificação de usuário cadastrado </li>
   <li> O usuário terá acesso à funcionalidade conforme cadastrado no banco </li>
-  <li> Utilizei Claims Types como autenticação de cada usuários, assim conseguimos controlar os conteúdos que ele tem acesso e qual base poderá fazer o registro </li>
+  <li> Utilizei Claims Types como autenticação de cada usuário, assim conseguimos controlar os conteúdos que ele tem acesso e qual base poderá fazer o registro </li>
 </ul>
   
 <div>
