@@ -4,7 +4,7 @@
   </div>
   
 <p> Fico feliz que esteja aqui vendo meu projeto :wink: </p>
-<p> Este foi meu primeiro projeto Web desenvolvido do zero, com dados reais, foi muito importante pra mim </p>
+<p> Este foi meu primeiro projeto Web desenvolvido do zero, com dados reais, foi e esta sendo muito importante pra mim </p>
 
 <h2> O projeto está como privado, pois contem dados sensíveis, por esse motivo aqui consta somente a apresentação dele </h2>
 <h3> :construction: Projeto Portaria :construction: </h3>
