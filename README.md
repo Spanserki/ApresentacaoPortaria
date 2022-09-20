@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://user-images.githubusercontent.com/97187822/172213833-7e4e132b-8f03-4ca9-a3f6-5ff1739bfba3.gif" width="400px" height="150px" />
+  <img src="https://user-images.githubusercontent.com/97187822/172213833-7e4e132b-8f03-4ca9-a3f6-5ff1739bfba3.gif" width="400px" height="250px" />
   </div>
   
 <p> Fico feliz que esteja aqui vendo meu projeto :wink: </p>
