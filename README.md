@@ -76,7 +76,6 @@
   que vai coletar os dados e depois passar como parâmetro para o arquivo do relatório, logo em seguida o convertemos para PDF e disponibilizamos para o usuário
   </p>
   
-  <p> ⚠️: Foi um dos meus maiores desafio até aqui... </p>
   
   <div>
   <img src="https://user-images.githubusercontent.com/97187822/175660591-fab056ab-817b-4771-8c64-17290ee6022f.gif" />
